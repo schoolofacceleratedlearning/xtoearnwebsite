@@ -4971,3 +4971,8 @@ b, strong {
     max-height: 80vh;
   }
 }
+
+.icon:hover {
+    color: #e96f3a  !important; 
+    opacity:0.5;
+}
